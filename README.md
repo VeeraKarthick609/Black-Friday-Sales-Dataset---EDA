@@ -41,8 +41,5 @@ Summarize the key findings and insights from the exploratory data analysis, feat
 ## Usage
 Clone the repository and run the Jupyter Notebook to explore the dataset, perform feature engineering, and train the Linear Regression model.
 
-## Author
-[Your Name]
-
-## License
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+```bash
+pip install -r requirements.txt
